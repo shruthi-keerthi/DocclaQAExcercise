@@ -1,0 +1,31 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Log into Argos application as a valid user",
+        "description": "",
+        "id": "loggedin-user;log-into-argos-application-as-a-valid-user",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "User navigates to the Argos website",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "LoggedIn User",
+    "description": "",
+    "id": "loggedin-user",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
